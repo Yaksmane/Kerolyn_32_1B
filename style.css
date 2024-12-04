@@ -1,44 +1,4 @@
 body{
-
-<style>
-       
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
-body {
-    font-family: 'Lato', sans-serif; 
-    font-size: 16px;
-    line-height: 1.6; 
-}
-
-h1 {
-    font-size: 2em; 
-    margin-bottom: 0.5em;
-}
-
-h2 {
-    font-size: 1.75em;
-}
-
-p {
-    font-size: 1em;
-    margin-bottom: 1em; 
-}
-
-.exemplo {
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border-bottom: 3px solid #4F4F4F;
-}
-}
-</style>
-</head>
-body{
     color: black;
     background-color: plum;
     }
